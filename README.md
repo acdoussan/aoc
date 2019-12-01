@@ -1,6 +1,6 @@
 # AOC
 
-Advent of Code
+Advent of Code solutions
 
 ## How to run
 
@@ -14,5 +14,5 @@ java Fuel < input.txt > ans.txt
 ```
 
 In the above, input.txt is the path to the input file, and ans.txt is the path to the file where
-you would like the answer to be written. You can leave out `> ans.txt` if you would like for the answer
-to be shown in the terminal.
+you would like the answer to be written. You can leave out `> ans.txt` if you would prefer the answer
+be shown in the terminal.
